@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 -->
 
 ### Halouuu　👋
-This is Megan\
+This is Megan aka Lele\
+喜欢又不喜欢编程の小孩\
+\
 \
 Feel free to reach out to me on:\
 ⚡Email: tiongmegan@gmail.com\
-⚡Twitter:\
 ⚡Instagram: megan.tiong
 
-### 这个好好玩哦哦哦
+# 这个好好玩哦哦哦
