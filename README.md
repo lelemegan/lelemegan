@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 ##### This is Megan aka Lele
 ###### 🍦 喜欢又不喜欢编程の小孩</br>🍦 03年の小孩
 
-</br>
-##### My favs
-###### ⚡Language: Python</br>⚡Social Media: Douyin + Discord</br>⚡Food: Portuguese egg tart</br>⚡Song: Be There For You by NCT DREAM
 
-</br>
-##### Feel free to reach out to me on
-###### 📫Email: tiongmegan@gmail.com</br>📫Instagram: megan.tiong
+
+###### My favs</br>⚡Language: Python</br>⚡Social Media: Douyin + Discord</br>⚡Food: Portuguese egg tart</br>⚡Song: Be There For You by NCT DREAM
+
+
+###### Feel free to reach out to me on</br>📫Email: tiongmegan@gmail.com</br>📫Instagram: megan.tiong
 
 
 ###### 这个好好玩哦哦哦
