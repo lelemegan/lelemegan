@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 
 
-###### My favs</br>⚡Language: Python</br>⚡Social Media: Douyin + Discord</br>⚡Food: Portuguese egg tart</br>⚡Song: Be There For You by NCT DREAM
+##### My favs</br>⚡Language: Python</br>⚡Social Media: Douyin + Discord</br>⚡Food: Portuguese egg tart</br>⚡Song: Be There For You by NCT DREAM
 
 
-###### Feel free to reach out to me on</br>📫Email: tiongmegan@gmail.com</br>📫Instagram: megan.tiong
+##### Feel free to reach out to me on</br>📫Email: tiongmegan@gmail.com</br>📫Instagram: megan.tiong
 
 
 ###### 这个好好玩哦哦哦
