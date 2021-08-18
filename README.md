@@ -21,4 +21,4 @@ This is Megan\
 Feel free to reach out to me on:\
 ⚡Email: tiongmegan@gmail.com\
 ⚡Twitter:\
-⚡Instagram: megan.tiong\
+⚡Instagram: megan.tiong
