@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 ### Halouuu👋
 ##### This is Megan aka Lele
-<p>🍦 喜欢又不喜欢编程の小孩\</p>
-🍦 03年の小孩
+###### 🍦 喜欢又不喜欢编程の小孩\🍦 03年の小孩
 
 
 ##### My favs
