@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **lelemegan/lelemegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Halouuu\
+### Halouuu　👋\
 This is Megan\
 \
 Feel free to reach out to me on:\
 ⚡Email: tiongmegan@gmail.com\
 ⚡Twitter:\
 ⚡Instagram: megan.tiong
+
+###这个好好玩哦哦哦
