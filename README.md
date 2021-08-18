@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Halouuu👋
-##### This is Megan aka Lele</br>🍦 喜欢又不喜欢编程の小孩</br>🍦 03年の小孩
+##### This is Megan aka Lele</br>🍦 喜欢又不喜欢编程の小孩</br>🍦 03年の小孩</br>🍦 A diploma student who appreciates the everyday highs and lows. Striving to love and accept the entirety.
 
 
 
