@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Halouuu
+This is Megan
+
+Feel free to reach out to me on:
+⚡Email: tiongmegan@gmail.com
+⚡Twitter:
+⚡Instagram: megan.tiong
