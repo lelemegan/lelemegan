@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Halouuu
-This is Megan
-
-Feel free to reach out to me on:
-⚡Email: tiongmegan@gmail.com
-⚡Twitter:
-⚡Instagram: megan.tiong
+Halouuu\
+This is Megan\
+\
+Feel free to reach out to me on:\
+⚡Email: tiongmegan@gmail.com\
+⚡Twitter:\
+⚡Instagram: megan.tiong\
